@@ -1,2 +1,2 @@
 # EV-Projects
-Simple EV Powertrain Model &amp; Battery cell Balancing Model
+Simple EV Battery cell Balancing Model
